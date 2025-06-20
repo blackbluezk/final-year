@@ -1,2 +1,2 @@
 # final-year
-malaria forecating
+Malaria forecasting with Hybrid fbprophet and LSTM
